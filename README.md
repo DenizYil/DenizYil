@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Deniz! 👋
+
+I'm Deniz Yildirim, a Software Engineer at the IT University of Copenhagen. I work primarily with Python, Java and JS.
+
+⚡ Check out my personal website at https://denizyildirim.dk/ for more information!
 
 <!--
 **DenizYil/DenizYil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
