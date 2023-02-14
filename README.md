@@ -1,6 +1,6 @@
 ### Hi there, I'm Deniz! 👋
 
-I'm Deniz Yildirim, a Software Engineer at the IT University of Copenhagen. I work primarily with Python, Java and JS.
+I'm Deniz Yildirim, a Software Engineer at DHI and currently studying at the IT University of Copenhagen. I work primarily with Python, Java and TypeScript.
 
 ⚡ Check out my personal website at https://denizyildirim.dk/ for more information!
 
