@@ -1,8 +1,6 @@
 ### Hi there, I'm Deniz! 👋
 
-I'm Deniz Yildirim, a Software Engineer at DHI and currently studying at the IT University of Copenhagen. I work primarily with Python, Java and TypeScript.
-
-⚡ Check out my personal website at https://denizyildirim.dk/ for more information!
+I'm Deniz Yildirim, a Software Engineer at DHI and currently taking my MSc. at the University of Copenhagen. I work primarily with Python, Java, and TypeScript.
 
 <!--
 **DenizYil/DenizYil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
