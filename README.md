@@ -1,6 +1,6 @@
 ### Hi there, I'm Deniz! 👋
 
-I'm Deniz Yildirim, a Software Engineer at DHI and currently taking my MSc. at the University of Copenhagen. I work primarily with Python, Java, and TypeScript.
+I'm Deniz Yildirim, a Software Engineer at [Penneo](https://penneo.com/) and currently taking my MSc. at the IT University of Copenhagen. I work primarily with Python, TypeScript and Java.
 
 <!--
 **DenizYil/DenizYil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
